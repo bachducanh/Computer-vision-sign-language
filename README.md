@@ -12,3 +12,10 @@ Hướng dẫn sử dụng Git
 1. git add .
 2. git commit -m "second commit"
 3. git push origin master
+
+Practice runnung project
+1. Provide image to build dataset
+- Run file collect_imgs.py => run file create dataset
+2. training model
+- rung file train_classifier.py
+3. result by main.py
